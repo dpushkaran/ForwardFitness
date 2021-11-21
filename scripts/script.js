@@ -1,7 +1,7 @@
 /*
 Student Name: Deva Pushkaran
 File Name: script.js
-Date: 11/11/2021
+Date: 11/20/2021
 */
 
 //Global variables
